@@ -17,3 +17,4 @@ recursos interesantes pensando en las clases de clases de programación
 * Courses about learning tidyverse https://www.tidyverse.org/learn/
 * Data Visualization _Kieran Healy_ https://socviz.co/
 * Teaching Tech Together, Greg Wilson, Taylor & Francis, 2019, 978-0-367-35328-5. https://teachtogether.tech/
+* Tips for teaching online https://carpentries.org/blog/2020/03/tips-for-teaching-online/
